@@ -1,4 +1,5 @@
-# Hi 🐦
-I make games & game tools. Often using [Godot](https://godotengine.org/)
+## Game Jams Compilation
 
-Most of my public repos are game jam submissions. [itch.io](https://lightboat.itch.io/)
+![Game Jams](media/game_jams.gif)
+
+Find my games on [itch.io](https://lightboat.itch.io/).
