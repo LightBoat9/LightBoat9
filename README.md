@@ -1,4 +1,4 @@
-## Game Jams Compilation
+## Game Jam Compilation
 
 <img src="media/game_jams.gif" width="640">
 
